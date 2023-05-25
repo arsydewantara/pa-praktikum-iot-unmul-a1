@@ -4,12 +4,13 @@
 * Yanuar Gideon Simalango (2009106014)
 * Muhammad Arsy Dewantara (2009106033)
 * Mira Sartika Lengkong   (2009106039)
+* Muhammad Amri Rasyid    (2009106047)
 
 # Judul Studi Kasus
 Monitoring Ketinggian Air menggunakan Water Level Sensor
 
 # Deskripsi
-Rangkaian ini terbagi menjadi dua yaitu rangkaian khusus publisher dan rangkaian khusus subscriber, rangkaian subscriber terdiri dari 1 nodemcu 2 led dan 1 buzzer sedangkan rangkaian publisher terdiri dari 1 nodemcu dan 1 water level sensor
+Rangkaian ini terbagi menjadi dua yaitu rangkaian khusus publisher dan rangkaian khusus subscriber, rangkaian subscriber terdiri dari 1 nodemcu 2 led dan 1 buzzer sedangkan rangkaian publisher terdiri dari 1 nodemcu, 1 servo dan 1 water level sensor
 
 # Pembagian Tugas
 ## Yanuar Gideon Simalango
