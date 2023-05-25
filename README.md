@@ -40,13 +40,13 @@ Rangkaian ini terbagi menjadi dua yaitu rangkaian khusus publisher dan rangkaian
   * Katup
 
 # Board Schematic Publisher
-![boardschematic2](https://user-images.githubusercontent.com/74332636/230623109-68e449d4-8d53-40d5-a198-81caea8862be.jpeg)
+![publisher](https://github.com/arsydewantara/pa-praktikum-iot-unmul-a1/assets/74332636/6def98f7-8285-4b48-8d0e-eba8e507e2d7)
 <p align="center">
   <img src="publisher.jpeg" width="350">
 </p>
 
 # Board Schematic Subscriber
-![boardschematic2](https://user-images.githubusercontent.com/74332636/230623109-68e449d4-8d53-40d5-a198-81caea8862be.jpeg)
+![subscriber](https://github.com/arsydewantara/pa-praktikum-iot-unmul-a1/assets/74332636/fd272d15-ace9-4f72-afa1-10d726c8b8bc)
 <p align="center">
   <img src="subscriber.jpeg" width="350">
 </p>
