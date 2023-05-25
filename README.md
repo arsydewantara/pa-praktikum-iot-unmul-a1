@@ -24,19 +24,30 @@ Rangkaian ini terbagi menjadi dua yaitu rangkaian khusus publisher dan rangkaian
 ## Mira Sartika Lengkong
    * Membuat rangkaian subscriber
 
+## Muhammad Amri Rasyid
+  * Membuat rangkaian publisher
+
 # Komponen Yang Digunakan
   * 1 Buzzer 
   * 2 Led
   * 2 Resistor
   * 2 BreadBoard
   * 2 Esp8266
-  * 6 Kabel Jumper
+  * 9 Kabel Jumper
   * 1 Water Sensor Leve
   * 1 Kabel USB
+  * 1 Servo
+  * Katup
 
-# Board Schematic
+# Board Schematic Publisher
 ![boardschematic2](https://user-images.githubusercontent.com/74332636/230623109-68e449d4-8d53-40d5-a198-81caea8862be.jpeg)
 <p align="center">
-  <img src="boardschematic2.jpeg" width="350">
+  <img src="publisher.jpeg" width="350">
+</p>
+
+# Board Schematic Subscriber
+![boardschematic2](https://user-images.githubusercontent.com/74332636/230623109-68e449d4-8d53-40d5-a198-81caea8862be.jpeg)
+<p align="center">
+  <img src="subscriber.jpeg" width="350">
 </p>
   
